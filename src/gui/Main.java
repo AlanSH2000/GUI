@@ -1,4 +1,5 @@
-
+//ALAN DANIEL SEVILLA HERNANDEZ
+//2022525
 package gui;
 
 import java.awt.Color;
@@ -16,10 +17,10 @@ public class Main {
         frame.setResizable(true);
         
         //FORMATO DEFAULT
-        //frame.getContentPane().setBackground(Color.BLACK);
+        //frame.getContentPane().setBackground(Color.CYAN);
         
         //FORMATO RGB
-        //frame.getContentPane().setBackground(new Color(28, 26, 198));
+       // frame.getContentPane().setBackground(new Color(28, 26, 198));
         
         //FORMATO HEXADECIMAL
         frame.getContentPane().setBackground(new Color(0x1AC3C6));
